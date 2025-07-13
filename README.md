@@ -1,3 +1,1 @@
-### Demo
-
-https://code-sync.codersgyan.com/
+### Node-JS Based Collaborative Text Editor
